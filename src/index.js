@@ -13,18 +13,20 @@ import PropsDemo from './PropsDemo';
 import CallBackEvent from './CallBackEvent';
 import UseMemoDemo from './UseMemoDemo';
 import UseRefDemo from './UseRefDemo';
+import UseCallBack from './UseCallBack';
 
 // const element = <p>This is paragraph.</p>
 function Abc(){
   return(
     <div>
       
-      <Componenetclass/> 
+      {/* <Componenetclass/>  */}
       {/* <Useeffectdemo/> */}
       {/* <CallBackEvent/> */}
       {/* <App/> */}
       {/* <UseMemoDemo/> */}
       {/* <UseRefDemo/> */}
+      <UseCallBack/>
       
 
     </div>
